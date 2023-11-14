@@ -1,25 +1,3 @@
-  <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=yunkihong-dev&fontSize=60"/>
-</div>
-
-
-
-
-
-## Profile
-
-🧑 홍윤기 <br>
-👶 2000.01.30 <br>
-📞 010-9664-8141 <br>
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricky0130@naver.com)](mailto:ricky0130@naver.com) <span><a href="https://ricky0130.notion.site/373a5d0e1acf4740bda320408d6d302e?pvs=4"><img src="https://img.shields.io/badge/notion-white?style=round-square&logo=Notion&logoColor=black"/></span></a>
- <span><a href="https://blog.naver.com/ricky0130"><img src="https://img.shields.io/badge/Naver-green?style=round-square&logo=Naver&logoColor=white"/></a></span>
-<span><a href="https://www.facebook.com/profile.php?id=100009001297630"><img src="https://img.shields.io/badge/Facebook-blue?style=round-square&logo=Facebook&logoColor=white"/></a></span>
-<span><a href="https://open.kakao.com/o/s8Top8of"><img src="https://img.shields.io/badge/kakaotalk-yellow?style=round-square&logo=Facebook&logoColor=black"/></a></span>
-
-<br>
-
-## Skills
 
 | Back-End | Front-End | Database | IDE |
 | --- | --- | --- | --- |
